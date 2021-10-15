@@ -6,7 +6,7 @@
 	<groupId>com.test</groupId>
 	<artifactId>properties</artifactId>
 	<version>${v}</version>
-	<name>${jar_n}</name>
+	<name>properties_1</name>
 	<url>http://maven.apache.org</url>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
